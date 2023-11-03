@@ -1,4 +1,4 @@
-# README magic keyboard
+# README Auto Corrector
 
 ## Description
 
